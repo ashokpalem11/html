@@ -1,5 +1,0 @@
-<html>
-<body>
-hellow buddy..
-</body>
-</html>
